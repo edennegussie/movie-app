@@ -11,7 +11,7 @@ const url = 'https://imdb188.p.rapidapi.com/api/v1/searchIMDB?query=the';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'b29bec9b8cmshe15a2bb5e2a40bap1118b8jsnc7930a2c9ffd',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'imdb188.p.rapidapi.com'
 	}
 };
